@@ -1,5 +1,4 @@
 #ask for name
-import random
 
 
 
@@ -18,5 +17,5 @@ age = input("How old are you? ")
                 points += 1
             else:
                 print("You got it wrong")
-                points += 1¨
+                points += 1
                 print("You have " + str(points) + " points")
